@@ -42,7 +42,6 @@ C:/Users/Kurien/Documents/Cleaned_Mall_Customers.csv
 ### Challenges Faced
 
 - No major challenges encountered since the dataset was relatively clean.
-- Took time to understand the file paths and get used to Pandas functions initially.
 
 ---
 
