@@ -1,11 +1,11 @@
-## 🧹 Data Cleaning Project – Mall Customers Dataset
+##  Data Cleaning Project – Mall Customers Dataset
 
-### 🔍 About the Project
+###  About the Project
 This project focuses on cleaning and preprocessing the **Mall Customers Dataset** using Python (Pandas). The goal was to ensure the dataset is clean, consistent, and ready for further analysis.
 
 ---
 
-### 🧪 Dataset Used
+###  Dataset Used
 - **Name:** Mall_Customers.csv  
 - **Source:** Kaggle  
 - **Rows:** 200  
@@ -14,7 +14,7 @@ This project focuses on cleaning and preprocessing the **Mall Customers Dataset*
 
 ---
 
-### 🛠️ Steps Performed
+###  Steps Performed
 
 1. **Loaded the Dataset**  
    Used `pandas.read_csv()` to load the raw data from the CSV file.
@@ -39,14 +39,15 @@ Saved Cleaned Dataset
 Saved the cleaned file to:
 C:/Users/Kurien/Documents/Cleaned_Mall_Customers.csv
 
-⚠️ Challenges Faced
-No major challenges encountered since the dataset was relatively clean.
+### Challenges Faced
 
-Took time to understand the file paths and get used to Pandas functions initially.
+- No major challenges encountered since the dataset was relatively clean.
+- Took time to understand the file paths and get used to Pandas functions initially.
 
-📁 Files Included
-Cleaned_Mall_Customers.csv – Cleaned dataset
+---
 
-data_cleaning_mall_customers.py – Python code used for cleaning
+### Files Included
 
-README.md – Project explanation
+- **Cleaned_Mall_Customers.csv** – Cleaned dataset.
+- **data_cleaning_mall_customers.py** – Python code used for cleaning.
+- **README.md** – Project explanation.
